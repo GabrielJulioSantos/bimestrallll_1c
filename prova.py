@@ -1,6 +1,6 @@
-nome=input('digite seu nome:')
+nome=input('digite seu nome: ')
 idade=int(input("digite sua idade:"))
-peso=float(input("digite seu peso:"))
+peso=float(input("digite seu peso: "))
 altura=float(input("digite sua altura:"))
 print("ola",nome)
 print("sua idade é",idade)
